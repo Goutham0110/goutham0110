@@ -15,46 +15,72 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **Full Stack Developer | Freelancer | Tech Enthusiast**
+![Profile Views](https://komarev.com/ghpvc/?username=goutham0110&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate full stack developer, specializing in creating web applications using modern technologies. Currently, I'm freelancing and working on exciting projects that make a difference.
+I'm a **Full Stack Developer** and **Freelancer** with a passion for building scalable web applications and improving user experiences. I have 2+ years of experience in web development, and I'm constantly learning and experimenting with new technologies to stay ahead of the curve.
 
-## 🚀 Skills & Technologies
+---
 
-### Frontend:
-- HTML, CSS, JavaScript
-- ReactJS
-- Material UI (MUI)
+## 🔧 Technologies & Tools
 
-### Backend:
-- NodeJS, Express
-- MySQL, MongoDB
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-### Tools & Platforms:
-- Git, GitHub, Docker
-- Postman
-- VS Code
+### 🛠 Backend
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 🛠 Projects
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-Here are some of my featured projects:
-- **[Placement Application](https://github.com/goutham0110/placement-app)**: An automated email system for managing placement related databases.
-- **[Flashcard App](https://github.com/goutham0110/flashcard-app)**: A project focused on learning through flashcards.
+---
 
-Check out more of my projects [here](https://github.com/goutham0110?tab=repositories).
+## 👨‍💻 What I'm Working On
+- 🌱 **Online Web Development Sessions**: I conduct **beginner-friendly courses** on web development, teaching **React, NodeJS, MySQL, MongoDB**, and refreshing core **HTML/CSS**. [Check out the course](https://github.com/goutham0110/webdev-course).
+- 🛠️ Improving **Placement Application**: An application that automates email communications using a centralized database for managing placement records.
+- 🚀 **Freelance Projects**: I build full-stack applications for clients, focusing on creating clean, scalable code and a great user experience.
 
-## 📚 Ongoing Work
+---
 
-- Conducting **online sessions on web development** covering React, NodeJS, MySQL, MongoDB.
-- Building full-stack applications.
+## 🏆 Featured Projects
+
+### 📅 [Placement Application](https://github.com/goutham0110/placement-app)
+A centralized platform for managing placement data, with automated email systems and seamless communication for job placements.
+
+### 💡 [Flashcard App](https://github.com/goutham0110/flashcard-app)
+A flashcard learning app built to aid in knowledge retention through interactive study sessions.
+
+### 🌍 [Web Development Course](https://github.com/goutham0110/webdev-course)
+Resources for my online web development course covering **React, NodeJS, MySQL, MongoDB**, helping beginners build full-stack applications.
+
+Feel free to explore more of my projects [here](https://github.com/goutham0110?tab=repositories).
+
+---
+
+## 📈 GitHub Stats
+
+![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham0110&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham0110&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Let's Connect
 
-- GitHub: [goutham0110](https://github.com/goutham0110)
-- LinkedIn: [goutham0110](https://www.linkedin.com/in/goutham0110)
-
-Feel free to reach out for collaboration or just to say hi!
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/goutham0110)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham0110)
 
 ---
 
 ⭐️ From [Goutham](https://github.com/goutham0110)
+
