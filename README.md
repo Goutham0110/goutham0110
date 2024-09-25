@@ -44,11 +44,15 @@ I'm a **Full Stack Developer** and **Freelancer** with a passion for building sc
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham0110&layout=compact&theme=radical)
+
 ---
 ## 👨‍💻 What I'm Working On
 - 🌱 **Online Web Development Sessions**: I conduct **beginner-friendly courses** on web development, teaching **React, NodeJS, MySQL, MongoDB**, and refreshing core **HTML/CSS**. [Check out the course](https://github.com/goutham0110/webdev-course).
 - 🛠️ Improving **Placement Application**: An application that automates email communications using a centralized database for managing placement records.
 - 🚀 **Freelance Projects**: I build full-stack applications for clients, focusing on creating clean, scalable code and a great user experience.
+![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham0110&show_icons=true&theme=radical)
+
 
 ---
 
@@ -64,13 +68,6 @@ A flashcard learning app built to aid in knowledge retention through interactive
 Resources for my online web development course covering **React, NodeJS, MySQL, MongoDB**, helping beginners build full-stack applications.
 
 Feel free to explore more of my projects [here](https://github.com/goutham0110?tab=repositories).
-
----
-
-## 📈 GitHub Stats
-
-![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham0110&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham0110&layout=compact&theme=radical)
 
 ---
 
