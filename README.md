@@ -48,7 +48,7 @@ I'm a **Full Stack Developer** and **Freelancer** with a passion for building sc
 
 ---
 ## 👨‍💻 What I'm Working On
-- 🌱 **Online Web Development Sessions**: I conduct **beginner-friendly courses** on web development, teaching **React, NodeJS, MySQL, MongoDB**, and refreshing core **HTML/CSS**. [Check out the course](https://github.com/goutham0110/webdev-course).
+- 🌱 **Online Web Development Sessions**: I conduct **beginner-friendly courses** on web development, teaching **React, NodeJS, MySQL, MongoDB**, and refreshing core **HTML/CSS**.
 - 🛠️ Improving **Placement Application**: An application that automates email communications using a centralized database for managing placement records.
 - 🚀 **Freelance Projects**: I build full-stack applications for clients, focusing on creating clean, scalable code and a great user experience.
 ![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham0110&show_icons=true&theme=radical)
