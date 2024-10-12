@@ -56,7 +56,7 @@ I'm a **Full Stack Developer** and **Freelancer** with a passion for building sc
 
 
 ---
-
+<!--
 ## 🏆 Featured Projects
 
 ### 📅 [Placement Application](https://github.com/goutham0110/placement-app)
@@ -75,3 +75,6 @@ Feel free to explore more of my projects [here](https://github.com/goutham0110?t
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham0110)
+
+---
+-->
