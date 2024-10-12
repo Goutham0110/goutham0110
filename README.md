@@ -53,10 +53,10 @@ I'm a **Full Stack Developer** and **Freelancer** with a passion for building sc
 - 🚀 **Freelance Projects**: I build full-stack applications for clients, focusing on creating clean, scalable code and a great user experience.
   
 ![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham0110&show_icons=true&theme=radical)
-
+<!--
 
 ---
-<!--
+
 ## 🏆 Featured Projects
 
 ### 📅 [Placement Application](https://github.com/goutham0110/placement-app)
