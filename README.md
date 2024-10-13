@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goutham0110&color=blue)
 
-I'm a **Full Stack Developer** and **Freelancer** with a passion for building scalable web applications and improving user experiences. I have 2+ years of experience in web development, and I'm constantly learning and experimenting with new technologies to stay ahead of the curve.
+I'm a **Full Stack Developer** and **Freelancer** with a passion for building scalable web applications and improving user experiences.
 
 ---
 
