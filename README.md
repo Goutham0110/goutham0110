@@ -86,4 +86,4 @@ Feel free to explore more of my projects [here](https://github.com/goutham0110?t
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham0110)
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat)](https://goutham0110.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2496ED?style=flat)](https://goutham0110.github.io/portfolio/)
